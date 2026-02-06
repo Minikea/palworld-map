@@ -14,7 +14,7 @@ const toGamePossition = (x: number, y: number) => {
 
 const toMakerPossition = (x: number, y: number) => {
   const size = 256;
-  const mapRatio = 3.9;
+  const mapRatio = 15.6;
   const signX = x > 0 ? 0 : 1;
   const signY = y > 0 ? 0 : 1;
   const makerX = (x - signX) / mapRatio - size / 2;
@@ -23,7 +23,7 @@ const toMakerPossition = (x: number, y: number) => {
 };
 
 const fromPinPossition = (pin: PinData): PinData => {
-  const scale = 5.5;
+  const scale = 11;
   const data = toMakerPossition(pin.loc[0] * scale, pin.loc[1] * scale);
   return {
     ...pin,
