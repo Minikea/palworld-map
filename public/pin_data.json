@@ -9,6 +9,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Mount Obsidian - Midpoint",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint3",
@@ -20,6 +21,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Eternal Pyre Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint4",
@@ -31,6 +33,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Ancient Civilization Ruins",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint5",
@@ -42,7 +45,8 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Fisherman's Point",
-   },
+      "overrideIcon": "",
+    },
    {
       "id":"FTPoint6",
       "loc": [
@@ -53,6 +57,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Mount Obsidian - Anubis Statue",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint7",
@@ -64,6 +69,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Beach of Everlasting Summer",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint8",
@@ -75,6 +81,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Ruined Fortress City",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint9",
@@ -86,6 +93,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"PIDF Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint11",
@@ -97,6 +105,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sand Dunes Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint12",
@@ -108,6 +117,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Duneshelter",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint13",
@@ -119,6 +129,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Deep Sand Dunes",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint14",
@@ -130,6 +141,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Cold Shore",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint15",
@@ -141,6 +153,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"No Man's Trail",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint16",
@@ -152,6 +165,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Icy Weasel Hill",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint17",
@@ -163,6 +177,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Unthawable Lake",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint18",
@@ -174,6 +189,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Land of Absolute Zero",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint20",
@@ -185,6 +201,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"PAL Genetic Research Unit Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint83",
@@ -196,6 +213,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Feybreak Shipwreck",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint63",
@@ -207,6 +225,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Arena Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint64",
@@ -218,6 +237,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sakurajima - Mushroom Wetlands",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint65",
@@ -229,6 +249,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sakurajima - Southern Sandbar",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint67",
@@ -240,6 +261,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Moonflower Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint68",
@@ -251,6 +273,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Cherry Blossom Crossroads",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint69",
@@ -262,6 +285,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sakurajima - Northern Rock Field",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint70",
@@ -273,6 +297,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Secluded Cemetery",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint71",
@@ -284,6 +309,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Scorched Ashland",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint72",
@@ -295,6 +321,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Stone Pillar Cave Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint73",
@@ -306,6 +333,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Loess Plains",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint74",
@@ -317,6 +345,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Hidden Passage to the Oculus Gate",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint75",
@@ -328,6 +357,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"The Oculus Gate, Tower in Sight",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint76",
@@ -339,6 +369,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Feybreak Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint78",
@@ -350,6 +381,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Scorched Hill",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint79",
@@ -361,6 +393,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Deserted Ash Plateau",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint80",
@@ -372,6 +405,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Emberstone Plateau",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint81",
@@ -383,6 +417,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Shield Dragon Tunnel",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint59",
@@ -394,6 +429,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Forgotten Island Church Ruins",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint60",
@@ -405,6 +441,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Marsh Island Church Ruins",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint86",
@@ -416,6 +453,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Isle of the Glacial Core",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint85",
@@ -427,6 +465,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Oasis Isle",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint89",
@@ -438,6 +477,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Isle of Decayed Treasures",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint84",
@@ -449,6 +489,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sunlit Isle",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint87",
@@ -460,6 +501,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Frostbitten Isle",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint90",
@@ -471,6 +513,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sealed Realm of Terraria",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint88",
@@ -482,6 +525,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Phantom Isle",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint61",
@@ -493,6 +537,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Bridge of the Twin Knights",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint62",
@@ -504,6 +549,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Ravine Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint49",
@@ -515,6 +561,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@p7qi9s",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint50",
@@ -526,6 +573,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@1qnd53",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint51",
@@ -537,6 +585,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Kelpsea Hill",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint52",
@@ -548,6 +597,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@17gfik",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint53",
@@ -559,6 +609,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Sea Breeze Archipelago Church",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint54",
@@ -570,6 +621,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Small Cove",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint55",
@@ -581,6 +633,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Islandhopper Coast",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint56",
@@ -592,6 +645,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@xy7gbh",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint57",
@@ -603,6 +657,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@19uqeo",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint58",
@@ -614,6 +669,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Natural Bridge",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint41",
@@ -625,6 +681,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Cinnamoth Forest",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint42",
@@ -636,6 +693,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@1vmesz",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint43",
@@ -647,6 +705,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Deep Bamboo Thicket",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint44",
@@ -658,6 +717,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@1m7m1l",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint48",
@@ -669,6 +729,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Pristine Snow Field",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint25",
@@ -680,6 +741,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Ascetic Falls",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint26",
@@ -691,6 +753,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Foot of the Volcano",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint29",
@@ -702,6 +765,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@1t7uwb",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint30",
@@ -713,6 +777,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Investigator's Fork",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint31",
@@ -724,6 +789,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Ancient Ritual Site",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint32",
@@ -735,6 +801,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Mount Flopie Summit",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint33",
@@ -746,6 +813,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Lake Center",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint34",
@@ -757,6 +825,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Hypocrite Hill",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint35",
@@ -768,6 +837,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@wab1dn",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint36",
@@ -779,6 +849,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Snowy Mountain Crossroads",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint37",
@@ -790,6 +861,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Free Pal Alliance Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint38",
@@ -801,6 +873,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@2vyybr",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint39",
@@ -812,6 +885,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Mossanda Forest",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint40",
@@ -823,6 +897,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Gobfin's Turf",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint45",
@@ -834,6 +909,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Rayne Syndicate Tower Entrance",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint21",
@@ -845,6 +921,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Grassy Behemoth Hills",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint22",
@@ -856,6 +933,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Desolate Church",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint23",
@@ -867,6 +945,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Plateau of Beginnings",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint24",
@@ -878,6 +957,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Small Settlement",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint27",
@@ -889,6 +969,7 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"@6sshh2",
+      "overrideIcon": "",
    },
    {
       "id":"FTPoint28",
@@ -900,5 +981,6 @@
       "mapId":"default",
       "type":"fasttravel",
       "name":"Fort Ruins",
+      "overrideIcon": "",
    }
 ]

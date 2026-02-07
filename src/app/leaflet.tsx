@@ -23,8 +23,7 @@ const toMakerPos = (x: number, y: number) => {
 };
 
 const fromPinPos = (pin: PinData): PinData => {
-  const temp = toGamePos(pin.loc[0] , pin.loc[1])
-  const data = toMakerPos(temp[0] , temp[1]);
+  const data = toMakerPos(toGamePos(pin.loc[0] , pin.loc[1]));
   return {
     ...pin,
     loc: data,
@@ -41,10 +40,7 @@ type PinData = {
   loc: [number, number];
   type: string;
   name: string;
-  pinImage: string;
-  articleUrl: string;
   overrideIcon: string;
-  originalID: string;
 };
 
 export const Leaflet = ({ players }: TileLayerProps) => {
