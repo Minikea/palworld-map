@@ -117,7 +117,7 @@ export const Leaflet = ({ players }: TileLayerProps) => {
           <Marker key={key} position={[makerX, makerY]}>
             <Popup>
               <div>
-                <h2>{player.name}</h2>
+                <h2>{player.name} - lvl {player.level}</h2>
                 <p>{gameY}</p>
                 <p>{gameX}</p>
               </div>
