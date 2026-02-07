@@ -1,986 +1,904 @@
 [
    {
-      "id":"FTPoint1",
+      "id": "1001",
       "loc": [
-         -327531.78,
-         -70410.55,
-         18970.016
+         -327532,
+         -70411
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Mount Obsidian - Midpoint",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Mount Obsidian - Midpoint",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint3",
+      "id": "1002",
       "loc": [
-         -367707.78,
-         -114950.9,
-         61380.66
+         -50301,
+         287392
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Eternal Pyre Tower Entrance",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sand Dunes Entrance",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint4",
+      "id": "1003",
       "loc": [
-         -414446.72,
-         -24603.322,
-         3560.0862
+         35588,
+         321331
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Ancient Civilization Ruins",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Duneshelter",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint5",
+      "id": "1004",
       "loc": [
-         -465895,
-         -62137.754,
-         -1834.4438
+         117624,
+         400134
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Fisherman's Point",
-      "overrideIcon": "",
-    },
-   {
-      "id":"FTPoint6",
-      "loc": [
-         -416557.53,
-         -90012.16,
-         23301.867
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Mount Obsidian - Anubis Statue",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint7",
-      "loc": [
-         -383183.16,
-         -210790.92,
-         819.818
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Beach of Everlasting Summer",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint8",
-      "loc": [
-         -236773.34,
-         -100042.35,
-         516.5124
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Ruined Fortress City",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint9",
-      "loc": [
-         29780.533,
-         406913.2,
-         15662.839
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"PIDF Tower Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint11",
-      "loc": [
-         -50300.984,
-         287392.38,
-         295.78598
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sand Dunes Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint12",
-      "loc": [
-         35588.66,
-         321331.25,
-         623.0466
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Duneshelter",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint13",
-      "loc": [
-         117624.25,
-         400134.78,
-         -1931.7037
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Deep Sand Dunes",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint14",
-      "loc": [
-         -119037.29,
-         138340.36,
-         -1220.292
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Cold Shore",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint15",
-      "loc": [
-         -80506.16,
-         141464.77,
-         8140.1357
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"No Man's Trail",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint16",
-      "loc": [
-         -39402.426,
-         159611.86,
-         17025.168
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Icy Weasel Hill",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint17",
-      "loc": [
-         8000.5303,
-         111770.55,
-         2554.3777
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Unthawable Lake",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint18",
-      "loc": [
-         102159.82,
-         48527.027,
-         28428.287
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Land of Absolute Zero",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint20",
-      "loc": [
-         89644.01,
-         94542.2,
-         67275.08
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"PAL Genetic Research Unit Tower Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint83",
-      "loc": [
-         -798776.8,
-         -479574.8,
-         -2050.2622
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Feybreak Shipwreck",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint63",
-      "loc": [
-         -117215.02,
-         446689.97,
-         -1887.2981
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Arena Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint64",
-      "loc": [
-         -63520.734,
-         -55005.938,
-         -1711.8119
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sakurajima - Mushroom Wetlands",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint65",
-      "loc": [
-         -86709.57,
-         -140441.75,
-         -2030.9984
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sakurajima - Southern Sandbar",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint67",
-      "loc": [
-         -25522.21,
-         -118365.34,
-         6257.67
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Moonflower Tower Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint68",
-      "loc": [
-         -25915.371,
-         -78926.164,
-         3126.5598
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Cherry Blossom Crossroads",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint69",
-      "loc": [
-         32787.098,
-         -81420.33,
-         -2019.838
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sakurajima - Northern Rock Field",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint70",
-      "loc": [
-         -2188.7988,
-         -148545.86,
-         2988.4814
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Secluded Cemetery",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint71",
-      "loc": [
-         -503990,
-         -214380,
-         -1830
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Scorched Ashland",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint72",
-      "loc": [
-         -588140,
-         -253780,
-         720
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Stone Pillar Cave Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint73",
-      "loc": [
-         -792350,
-         -251110,
-         -540
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Loess Plains",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint74",
-      "loc": [
-         -698514.94,
-         -322880.4,
-         15540
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Hidden Passage to the Oculus Gate",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint75",
-      "loc": [
-         -760285.44,
-         -354966.22,
-         4300.4717
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"The Oculus Gate, Tower in Sight",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint76",
-      "loc": [
-         -888080,
-         -433080,
-         19030
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Feybreak Tower Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint78",
-      "loc": [
-         -699510,
-         -389030,
-         32620
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Scorched Hill",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint79",
-      "loc": [
-         -591120,
-         -484260,
-         6808.7915
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Deserted Ash Plateau",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint80",
-      "loc": [
-         -671901.25,
-         -172407.56,
-         -443.9525
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Emberstone Plateau",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint81",
-      "loc": [
-         -572461.56,
-         -287224.06,
-         45.334076
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Shield Dragon Tunnel",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint59",
-      "loc": [
-         -130060.375,
-         -53406.69,
-         1715.6251
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Forgotten Island Church Ruins",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint60",
-      "loc": [
-         -250506.48,
-         341109.6,
-         2293.3206
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Marsh Island Church Ruins",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint86",
-      "loc": [
-         168489,
-         221797.6,
-         -2020.1418
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Isle of the Glacial Core",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint85",
-      "loc": [
-         -33882.15,
-         564292.5,
-         -2102.5835
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Oasis Isle",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint89",
-      "loc": [
-         -197915.22,
-         438001.44,
-         -2064.6843
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Isle of Decayed Treasures",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint84",
-      "loc": [
-         -335853.84,
-         335361.28,
-         -2090.0576
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sunlit Isle",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint87",
-      "loc": [
-         -558410.44,
-         121112.1,
-         -1587.2306
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Frostbitten Isle",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint90",
-      "loc": [
-         -488718.2,
-         -35724.94,
-         -2096.6929
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sealed Realm of Terraria",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint88",
-      "loc": [
-         -209326.02,
-         -249227.56,
-         -2089.9614
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Phantom Isle",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint61",
-      "loc": [
-         -294830,
-         152240,
-         190
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Bridge of the Twin Knights",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint62",
-      "loc": [
-         -319000,
-         127170,
-         -2049.4475
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Ravine Entrance",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint49",
-      "loc": [
-         -137210,
-         -91340,
-         -2090
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@p7qi9s",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint50",
-      "loc": [
-         -88645.85,
-         -3922.8848,
-         -876.45087
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@1qnd53",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint51",
-      "loc": [
-         -170400,
-         -29240,
-         -1930
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Kelpsea Hill",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint52",
-      "loc": [
-         -450320,
-         112630,
-         -2090
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@17gfik",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint53",
-      "loc": [
-         -376750,
-         124630,
-         2270
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Sea Breeze Archipelago Church",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint54",
-      "loc": [
-         -374180,
-         63960,
-         -1920
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Small Cove",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint55",
-      "loc": [
-         -265980,
-         268690,
-         -1970
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Islandhopper Coast",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint56",
-      "loc": [
-         -282110,
-         355570,
-         -1940
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@xy7gbh",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint57",
-      "loc": [
-         -170718.69,
-         409753.16,
-         4049.16
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@19uqeo",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint58",
-      "loc": [
-         -221399.27,
-         330684.53,
-         -1744.8054
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Natural Bridge",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint41",
-      "loc": [
-         -248770.11,
-         126205.84,
-         5847.363
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Cinnamoth Forest",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint42",
-      "loc": [
-         -338560,
-         107660,
-         -1390
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@1vmesz",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint43",
-      "loc": [
-         -215388.52,
-         8854.223,
-         13174.679
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Deep Bamboo Thicket",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint44",
-      "loc": [
-         -195236.17,
-         36718.49,
-         8293.606
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@1m7m1l",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint48",
-      "loc": [
-         6.0000005,
-         -0.000048830407,
-         6588.961
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Pristine Snow Field",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint25",
-      "loc": [
-         -326403.84,
-         55136.727,
-         6871.9824
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Ascetic Falls",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint26",
-      "loc": [
-         -349535.5,
-         -4035.1057,
-         859.367
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Foot of the Volcano",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint29",
-      "loc": [
-         -283781,
-         59352.684,
-         5251.3853
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@1t7uwb",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint30",
-      "loc": [
-         -218636.78,
-         58528.145,
-         3731.1538
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Investigator's Fork",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint31",
-      "loc": [
-         -257951.39,
-         151247.84,
-         7.6625714
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Ancient Ritual Site",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint32",
-      "loc": [
-         -167684.92,
-         167519.23,
-         9175.596
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Mount Flopie Summit",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint33",
-      "loc": [
-         -221230,
-         165130,
-         -40
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Lake Center",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint34",
-      "loc": [
-         -237610,
-         190610,
-         3987.783
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Hypocrite Hill",
-      "overrideIcon": "",
-   },
-   {
-      "id":"FTPoint35",
-      "loc": [
-         -151783.97,
-         213200.86,
-         3277.1216
-      ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@wab1dn",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Deep Sand Dunes",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint36",
+      "id": "1005",
       "loc": [
-         -125290,
-         201720,
-         6920
+         -119038,
+         138340
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Snowy Mountain Crossroads",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Cold Shore",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint37",
+      "id": "1006",
       "loc": [
-         -103434.984,
-         234761.17,
-         19438.463
+         -80507,
+         141464
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Free Pal Alliance Tower Entrance",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "No Man's Trail",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint38",
+      "id": "1007",
       "loc": [
-         -115430,
-         289090,
-         3045.1614
+         -39403,
+         159611
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@2vyybr",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Icy Weasel Hill",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint39",
+      "id": "1008",
       "loc": [
-         -177770,
-         265010,
-         873.1743
+         8000,
+         111770
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Mossanda Forest",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Unthawable Lake",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint40",
+      "id": "1009",
       "loc": [
-         -219172.86,
-         226394.84,
-         -1956.383
+         102159,
+         48527
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Gobfin's Turf",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Land of Absolute Zero",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint45",
+      "id": "1010",
       "loc": [
-         -317777.2,
-         212103.31,
-         -762.5511
+         89644,
+         94542
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Rayne Syndicate Tower Entrance",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "PAL Genetic Research Unit Tower Entrance",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint21",
+      "id": "1011",
       "loc": [
          -342035,
-         236885,
-         -1751.6062
+         236885
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Grassy Behemoth Hills",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Grassy Behemoth Hills",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint22",
+      "id": "1012",
       "loc": [
          -314840,
-         186850,
-         3270
+         186850
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Desolate Church",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Desolate Church",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint23",
+      "id": "1013",
       "loc": [
          -358785,
-         267940,
-         7910
+         267940
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Plateau of Beginnings",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Plateau of Beginnings",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint24",
+      "id": "1014",
       "loc": [
-         -346617.56,
-         191706.6,
-         -308.70828
+         -346618,
+         191706
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Small Settlement",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Small Settlement",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint27",
+      "id": "1015",
       "loc": [
-         -278468.03,
-         212679.42,
-         -910.3164
+         -326404,
+         55136
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"@6sshh2",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Ascetic Falls",
+      "overrideIcon": ""
    },
    {
-      "id":"FTPoint28",
+      "id": "1016",
+      "loc": [
+         -349536,
+         -4036
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Foot of the Volcano",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1017",
+      "loc": [
+         -278469,
+         212679
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of the Frozen Wings",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1018",
       "loc": [
          -302825,
-         241060,
-         -1089.6859
+         241060
       ],
-      "mapId":"default",
-      "type":"fasttravel",
-      "name":"Fort Ruins",
-      "overrideIcon": "",
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Fort Ruins",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1019",
+      "loc": [
+         -283781,
+         59352
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of the Thunder Dragon",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1020",
+      "loc": [
+         -367708,
+         -114951
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Eternal Pyre Tower Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1021",
+      "loc": [
+         -218637,
+         58528
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Investigator's Fork",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1022",
+      "loc": [
+         -257952,
+         151247
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Ancient Ritual Site",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1023",
+      "loc": [
+         -167685,
+         167519
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Mount Flopie Summit",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1024",
+      "loc": [
+         -221230,
+         165130
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Lake Center",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1025",
+      "loc": [
+         -237611,
+         190609
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Hypocrite Hill",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1026",
+      "loc": [
+         -151784,
+         213200
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of the Guardian",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1027",
+      "loc": [
+         -125290,
+         201720
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Snowy Mountain Crossroads",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1028",
+      "loc": [
+         -103435,
+         234761
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Free Pal Alliance Tower Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1029",
+      "loc": [
+         -115430,
+         289090
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of the Swift",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1030",
+      "loc": [
+         -177771,
+         265009
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Mossanda Forest",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1031",
+      "loc": [
+         -414447,
+         -24604
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Ancient Civilization Ruins",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1032",
+      "loc": [
+         -219173,
+         226394
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Gobfin's Turf",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1033",
+      "loc": [
+         -248771,
+         126205
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Cinnamoth Forest",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1034",
+      "loc": [
+         -338560,
+         107660
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of the Swordmaster",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1035",
+      "loc": [
+         -215389,
+         8854
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Deep Bamboo Thicket",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1036",
+      "loc": [
+         -195237,
+         36718
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of the Winged Tyrant",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1037",
+      "loc": [
+         -317778,
+         212103
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Rayne Syndicate Tower Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1038",
+      "loc": [
+         6,
+         -1
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Pristine Snow Field",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1039",
+      "loc": [
+         -137210,
+         -91340
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Forgotten Island",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1040",
+      "loc": [
+         -465895,
+         -62138
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Fisherman's Point",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1041",
+      "loc": [
+         -88646,
+         -3923
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Ice Wind Island",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1042",
+      "loc": [
+         -170400,
+         -29240
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Kelpsea Hill",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1043",
+      "loc": [
+         -450320,
+         112630
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sea Breeze Archipelago - Castaway Beach",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1044",
+      "loc": [
+         -376750,
+         124630
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sea Breeze Archipelago Church",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1045",
+      "loc": [
+         -374180,
+         63960
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Small Cove",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1046",
+      "loc": [
+         -265980,
+         268690
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Islandhopper Coast",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1047",
+      "loc": [
+         -282110,
+         355570
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Marsh Island",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1048",
+      "loc": [
+         -170719,
+         409753
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Eastern Wild Island",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1049",
+      "loc": [
+         -221400,
+         330684
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Natural Bridge",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1050",
+      "loc": [
+         -130061,
+         -53407
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Forgotten Island Church Ruins",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1051",
+      "loc": [
+         -416558,
+         -90013
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Mount Obsidian - Anubis Statue",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1052",
+      "loc": [
+         -250507,
+         341109
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Marsh Island Church Ruins",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1053",
+      "loc": [
+         -294830,
+         152240
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Bridge of the Twin Knights",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1054",
+      "loc": [
+         -319000,
+         127170
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Ravine Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1055",
+      "loc": [
+         -117216,
+         446689
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Arena Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1056",
+      "loc": [
+         -63521,
+         -55006
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sakurajima - Mushroom Wetlands",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1057",
+      "loc": [
+         -86710,
+         -140442
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sakurajima - Southern Sandbar",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1058",
+      "loc": [
+         -25523,
+         -118366
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Moonflower Tower Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1059",
+      "loc": [
+         -25916,
+         -78927
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Cherry Blossom Crossroads",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1060",
+      "loc": [
+         32787,
+         -81421
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sakurajima - Northern Rock Field",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1061",
+      "loc": [
+         -383184,
+         -210791
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Beach of Everlasting Summer",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1062",
+      "loc": [
+         -2189,
+         -148546
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Secluded Cemetery",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1063",
+      "loc": [
+         -503990,
+         -214380
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Scorched Ashland",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1064",
+      "loc": [
+         -588140,
+         -253780
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Stone Pillar Cave Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1065",
+      "loc": [
+         -792350,
+         -251110
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Loess Plains",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1066",
+      "loc": [
+         -698515,
+         -322881
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Hidden Passage to the Oculus Gate",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1067",
+      "loc": [
+         -760286,
+         -354967
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "The Oculus Gate, Tower in Sight",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1068",
+      "loc": [
+         -888080,
+         -433080
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Feybreak Tower Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1069",
+      "loc": [
+         -699510,
+         -389030
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Scorched Hill",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1070",
+      "loc": [
+         -591120,
+         -484261
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Deserted Ash Plateau",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1071",
+      "loc": [
+         -236774,
+         -100043
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Ruined Fortress City",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1072",
+      "loc": [
+         -671902,
+         -172408
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Emberstone Plateau",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1073",
+      "loc": [
+         -572462,
+         -287225
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Shield Dragon Tunnel",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1074",
+      "loc": [
+         -798777,
+         -479575
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Feybreak Shipwreck",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1075",
+      "loc": [
+         -335854,
+         335361
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sunlit Isle",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1076",
+      "loc": [
+         -33883,
+         564292
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Oasis Isle",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1077",
+      "loc": [
+         168488,
+         221797
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Isle of the Glacial Core",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1078",
+      "loc": [
+         -558411,
+         121112
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Frostbitten Isle",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1079",
+      "loc": [
+         -209327,
+         -249228
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Phantom Isle",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1080",
+      "loc": [
+         -197916,
+         438001
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Isle of Decayed Treasures",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1081",
+      "loc": [
+         29780,
+         406913
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "PIDF Tower Entrance",
+      "overrideIcon": ""
+   },
+   {
+      "id": "1082",
+      "loc": [
+         -488719,
+         -35725
+      ],
+      "mapId": "default",
+      "type": "fasttravel",
+      "name": "Sealed Realm of Terraria",
+      "overrideIcon": ""
    }
 ]

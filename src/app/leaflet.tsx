@@ -23,7 +23,8 @@ const toMakerPos = (x: number, y: number) => {
 };
 
 const fromPinPos = (pin: PinData): PinData => {
-  const data = toMakerPos(toGamePos(pin.loc[0] , pin.loc[1]));
+  const [gameX, gameY] = toGamePos(pin.loc[0], pin.loc[1]);
+  const data = toMakerPos(gameX, gameY);
   return {
     ...pin,
     loc: data,
